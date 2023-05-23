@@ -15,7 +15,7 @@ function Navbar() {
       <p className='logo'>
         <Link href='/'>
           <Image
-            src="/../public/logo_sound.png"
+            src="/../public/logosound.png"
             width={200}
             height={100}
             alt="Picture of the author"
